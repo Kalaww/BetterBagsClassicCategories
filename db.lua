@@ -63,6 +63,55 @@ addon.db = {
         52327, -- volatile earth
         52330, -- volatile shadow
     },
+    ["Elemental Wotlk"] = {
+        37702, -- crystallized fire
+        37705, -- crystallized water
+        37703, -- crystallized shadow
+        37701, -- crystallized earth
+        37700, -- crystallized air
+        37704, -- crystallized life
+        36860, -- eternal fire
+        35624, -- eternal earth
+        35627, -- eternal shadow
+        35625, -- eternal life
+        35625, -- eternal life
+        35622, -- eternal water
+    },
+    ["Elemental TBC"] = {
+        23571, -- primal might
+        22451, -- primal air
+        21885, -- primal water
+        22452, -- primal earth
+        21884, -- primal fire
+        22457, -- primal mana
+        21886, -- primal life
+        22456, -- primal shadow
+        22574, -- mote of fire
+        22573, -- mote of earth
+        22572, -- mote of air
+        22578, -- mote of water
+        22576, -- mote of mana
+        22577, -- mote of shadow
+        22575, -- mote of life
+    },
+    ["Elemental Classic"] = {
+        7082, -- essence of air
+        12808, -- essence of undeath
+        7081, -- breath of wind
+        7069, -- elemental air
+        7067, -- elemental earth
+        7972, -- ichor of undeath
+        12803, -- living essence
+        10286, -- heart of the wild
+        7079, -- globe of water
+        7080, -- essence of water
+        7077, -- heart of fire
+        7078, -- essence of fire
+        7075, -- core of earth
+        7070, -- elemental water
+        7076, -- essence of earth
+        7068, -- elemental fire
+    },
     ["Enchanting Cataclysm"] = {
         52555, -- hypnotic dust
         52722, -- maelstrom crystal
