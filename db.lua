@@ -548,4 +548,37 @@ addon.db = {
         43123, -- ink of the sky
         43107, -- sapphire pigment
     },
+    ["Consumable Cataclysm"] = {
+        58086, -- flask of the draconic mind
+        58087, -- flask of the winds
+        58149, -- flask of enhancement
+        58088, -- flask of titanic strength
+        58085, -- flask of steelskin
+        65455, -- flask of battle
+        67438, -- flask of flowing water
+        58143, -- prismatic elixir
+        58148, -- elixir of the master
+        58092, -- elixir of the cobra
+        58084, -- ghost elixir
+        58093, -- elixir of deep earth
+        78883, -- darkmoon firewater
+        58094, -- elixir of impossible accuracy
+        58089, -- elixir of the naga
+        58144, -- elixir of mighty speed
+        58488, -- potion of treasure finding
+        58091, -- volcanic potion
+        58146, -- golemblood potion
+        57194, -- potion of concentration
+        57192, -- mythical mana potion
+        58145, -- potion of the tol'vir
+        67415, -- draught of war
+        58487, -- potion of deepholm
+        57099, -- mysterious potion
+        58489, -- potion of illusion
+        57191, -- mythical healing potion
+        58090, -- earthen potion
+        57193, -- mighty rejuvenation potion
+        67944, -- firelord's draught
+        63300, -- rogue's draught
+    }
 }
