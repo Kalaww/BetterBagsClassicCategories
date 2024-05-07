@@ -1,15 +1,6 @@
 local _, addon = ...
 
 addon.db = {
-    ["Herb Cataclysm"] = {
-        52983, -- cinderbloom
-        52985, -- azshara's veil
-        52984, -- stormvine
-        52987, -- twilight jasmine
-        52986, -- heartblossom
-        52988, -- whiptail
-        52989, -- deathspore pod
-    },
     ["Cloth Cataclysm"] = {
         54440, -- dreamcloth
         53010, -- embersilk cloth
@@ -161,6 +152,72 @@ addon.db = {
         11135, -- greater mystic essence
         11134, -- lesser mytic essence
         20725, -- nexus crystal
+    },
+    ["Herb Cataclysm"] = {
+        52983, -- cinderbloom
+        52985, -- azshara's veil
+        52984, -- stormvine
+        52987, -- twilight jasmine
+        52986, -- heartblossom
+        52988, -- whiptail
+        52989, -- deathspore pod
+    },
+    ["Herb Wotlk"] = {
+        36907, -- talandra's rose
+        36901, -- goldclover
+        36905, -- lichbloom
+        36903, -- adder's tongue
+        36906, -- icethorn
+        36904, -- tiger lily
+        36908, -- frost lotus
+        37921, -- deadnettle
+        39970, -- fireleaf
+    },
+    ["Herb TBC"] = {
+        22785, -- felweed
+        22791, -- netherbloom
+        22786, -- dreaming glory
+        22789, -- terocone
+        22787, -- ragveil
+        22792, -- nightmare vine
+        22793, -- mana thistle
+        22790, -- ancient lichen
+        22788, -- flame cap
+        22794, -- fel lotuc
+        22797, -- nightmare seed
+    },
+    ["Herb Classic"] = {
+        3821, -- goldthorn
+        3819, -- dragon's teeth
+        3820, -- stranglekelp
+        2450, -- briarthorn
+        8839, -- blindweed
+        8838, -- sungrass
+        13466, -- sorrowmoss
+        2453, -- bruiseweed
+        3357, -- liferoot
+        8831, -- purple lotus
+        8836, -- arthas' tears
+        13465, -- mountain silversage
+        785, -- mageroyal
+        3356, -- kingsblood
+        3358, -- khardgar's whisker
+        8846, -- gromsblood
+        3355, -- wild steelbloom
+        13464, -- golden sansam
+        4625, -- firebloom
+        13463, -- dreamfoil
+        3818, -- fadeleaf
+        2452, -- swiftthistle
+        13467, -- icecap
+        2447, -- peacebloom
+        8153, -- wildvine
+        8845, -- ghost mushroom
+        765, -- silverleaf
+        3369, -- grave moss
+        2449, -- earthroot
+        13468, -- black lotus
+        19726, -- bloodvine
     },
     ["Leather Cataclysm"] = {
         52976, -- savage leather
@@ -362,15 +419,4 @@ addon.db = {
         43123, -- ink of the sky
         43107, -- sapphire pigment
     },
-    ["Herbs Wotlk"] = {
-        36907, -- talandra's rose
-        36901, -- goldclover
-        36905, -- lichbloom
-        36903, -- adder's tongue
-        36906, -- icethorn
-        36904, -- tiger lily
-        36908, -- frost lotus
-        37921, -- deadnettle
-        39970, -- fireleaf
-    }
 }
