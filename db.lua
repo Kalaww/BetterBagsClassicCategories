@@ -227,6 +227,69 @@ addon.db = {
         52979, -- blackened dragonscale
         56516, -- heavy savage leather
     },
+    ["Leather Wotlk"] = {
+        44128, -- artic fur
+        33568, -- borean leather
+        38425, -- heavy borean leather
+        38558, -- nerubian chitin
+        38557, -- icy dragonscale
+        33567, -- borean leather scraps
+        38561, -- jormungar scale
+    },
+    ["Leather TBC"] = {
+        21887, -- knothide leather
+        25700, -- fel scales
+        23793, -- heavy knothide leather
+        29539, -- cobra scrales
+        25649, -- knothide leather scraps
+        29547, -- wind scales
+        25699, -- crystal infused leather
+        25708, -- thick clefthoof leather
+        29548, -- nether dragonscales
+        25707, -- fel hides
+    },
+    ["Leather Classic"] = {
+        2319, -- medium leather
+        8170, -- rugged leather
+        4304, -- thick leather
+        4234, -- heavy leather
+        4235, -- heavy hide
+        2318, -- light leather
+        15416, -- black dragonscale
+        4232, -- medium hide
+        8154, -- scorpid scale
+        15419, -- warbear leather
+        4236, -- cured heavy hide
+        2934, -- ruined leather scraps
+        15409, -- refined deeprock salt
+        4233, -- cured medium hide
+        4461, -- raptor hide
+        6471, -- perfect deviate scale
+        783, -- light hide
+        6470, -- deviate scale
+        15408, -- heavy scorpid scale
+        8167, -- turtle scale
+        15415, -- blue dragonscale
+        5785, -- thick murloc scale
+        12810, -- enchanted leather
+        5784, -- slimy murloc scale
+        15412, -- green dragonscale
+        15417, -- devilsaur leather
+        7286, -- black whelp scale
+        7392, -- green welp scale
+        8169, -- thick hide
+        8172, -- cured thick hide
+        17012, -- core leather
+        15407, -- cured rugged hide
+        19768, -- primal tiger leather
+        4231, -- cured light hide
+        15410, -- scale of onyxia
+        8171, -- rugged hide
+        19767, -- primal bat leather
+        20381, -- dreamscale
+        5082, -- think kodo leather
+        15414, -- red dragonscale
+    },
     ["Meat Cataclysm"] = {
         62779, -- monstrous claw
         62780, -- snake eye
