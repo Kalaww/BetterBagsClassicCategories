@@ -412,6 +412,74 @@ addon.db = {
         71805, -- queen's garnet
         71806, -- lightstone
     },
+    ["Gem Wotlk"] = {
+        36919, -- cardinal ruby
+        36918, -- scarlet ruby
+        36917, -- bloodstone
+        36925, -- majestic zircon
+        36923, -- chalcedony
+        36924, -- sky sapphire
+        36922, -- king's amber
+        36920, -- sun crystal
+        36921, -- autumn's glow
+        36928, -- dreadstone
+        36926, -- shadow crystal
+        36927, -- twilight opal
+        36934, -- eye of zul
+        36932, -- dark jade
+        36933, -- forest emerald
+        36931, -- ametrine
+        36930, -- monarch topaz
+        36929, -- huge citrine
+        41266, -- skyflare diamond
+        41334, -- earthsiege diamond
+        36784, -- siren's tear
+        36783, -- northsea pearl
+        42225, -- dragon's eye
+    },
+    ["Gem TBC"] = {
+        23077, -- blood garnet
+        23436, -- living ruby
+        33131, -- crimson sun
+        23117, -- azure moonstone
+        32228, -- empyrean sapphire
+        23438, -- star of elune
+        23112, -- golden draenite
+        23440, -- dawnstone
+        32229, -- lionseye
+        23107, -- shadow draenite
+        23441, -- nightseye
+        32230, -- shadowsong amethyst
+        23079, -- deep peridot
+        23437, -- talasite
+        32249, -- seaspray emerald
+        21929, -- flame spessarite
+        23439, -- noble topaz
+        32231, -- pyrestone
+        25867, -- earthstorm diamond
+        25868, -- skyfire diamond
+    },
+    ["Gem Classic"] = {
+        1206, -- moss agate
+        1210, -- shadowgem
+        13926, -- golden pearl
+        5500, -- iridescent pearl
+        7909, -- aquamarine
+        3864, -- citrine
+        7971, -- black pearl
+        12800, -- azerothian diamond
+        11382, -- blood of the mountain
+        7910, -- star ruby
+        5498, -- small lustrous pearl
+        818, -- tigerseye
+        12799, -- large opal
+        12364, -- huge emerald
+        12363, -- arcane crystal
+        12361, -- blue sapphire
+        1705, -- lesser moonstone
+        1529, -- jade
+        774, -- malachite
+    },
     ["Archaeology"] = {
         63128, -- troll tablet
         63127, -- highborne scroll
