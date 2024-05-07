@@ -120,6 +120,48 @@ addon.db = {
         52719, -- greater celestial essence
         52720, -- small heavenly shard
     },
+    ["Echanting Wotlk"] = {
+        34054, -- infinite dust
+        34052, -- dream shard
+        34057, -- abyss crystal
+        34053, -- small dream shard
+        34055, -- greater cosmic essence
+        34056, -- lesser cosmic essence
+    },
+    ["Enchanting TBC"] = {
+        22445, -- arcane dust
+        22449, -- large prismatic shard
+        22446, -- greater planar essence
+        22447, -- lesser planar essence
+        22448, -- small prismatic shard
+        22450, -- void crystal
+    },
+    ["Enchanting Classic"] = {
+        16204, -- illusion dust
+        11137, -- vision dust
+        11176, -- dream dust
+        11083, -- soul dust
+        10940, -- strange dust
+        14344, -- large brilliant shard
+        14343, -- small brilliant shard
+        11177, -- small radiant shard
+        11139, -- large glowing shard
+        11084, -- large glimmering shard
+        11138, -- small glowing shard
+        11178, -- large radiant shard
+        10978, -- small glimmering shard
+        16203, -- greater eternal essence
+        10938, -- lesser magic essence
+        10998, -- lesser astral essence
+        10939, -- greater magic essence
+        11174, -- lesser nether essence
+        16202, -- lesser eternal essence
+        11082, -- greater astral essence
+        11175, -- greater nether essence
+        11135, -- greater mystic essence
+        11134, -- lesser mytic essence
+        20725, -- nexus crystal
+    },
     ["Leather Cataclysm"] = {
         52976, -- savage leather
         52980, -- pristine hide
