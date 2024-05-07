@@ -314,6 +314,126 @@ addon.db = {
         53069, -- murglesnout
         62549, -- charred meat
     },
+    ["Meat Wotlk"] = {
+        41805, -- borean man o'war
+        41807, -- dragonfin angelfish
+        43013, -- chilled meat
+        41801, -- moonglow cuttlefish
+        41809, -- glacial salmon
+        41806, -- musselback sculpin
+        41813, -- nettlefish
+        41810, -- fangtooth herring
+        43501, -- northern egg
+        41800, -- deep sea monsterbelly
+        43012, -- rhino meat
+        41803, -- rockfin grouper
+        41808, -- bonescale snapper
+        41802, -- imperial manta ray
+        41812, -- barrelhead goby
+        43009, -- shoveltusk flank
+        41814, -- glassfin minnow
+        34736, -- chunk o' mammoth
+        43011, -- worg haunch
+        43010, -- worm meat
+        36782, -- succulent clam meat
+    },
+    ["Meat TBC"] = {
+        27438, -- golden darter
+        27422, -- barbed gill trout
+        33823, -- bloodfin catfish
+        27425, -- spotted feltail
+        27674, -- ravager flesh
+        22644, -- crunchy spider leg
+        27429, -- zangarian sporefish
+        27681, -- warped flesh
+        27437, -- icefin bluefish
+        27439, -- furious crawdad
+        33824, -- crescent-tail skullfish
+        24477, -- jaggal clam meat
+        27671, -- buzzard meat
+        27435, -- figster's mudfish
+        27682, -- talbuk venison
+        27678, -- clefthoof meat
+        31670, -- raptor ribs
+        31671, -- serpent flesh
+        27677, -- chunk o' basilisk
+        27668, -- lynx meat
+    },
+    ["Meat Classic"] = {
+        35562, -- bear flank
+        23676, -- moongraze stag tenderloin
+        27669, -- bat flesh
+        6889, -- small egg
+        13754, -- raw glossy mightfish
+        3685, -- raptor egg
+        21153, -- raw greater sagefish
+        5504, -- tangy clam meat
+        13758, -- raw redgill
+        2677, -- boar ribs
+        12207, -- giant egg
+        13756, -- raw summer bass
+        6362, -- raw rockscale cod
+        20424, -- sandworm meat
+        7974, -- zetsy clam meat
+        12184, -- raptor flesh
+        6361, -- raw rainbow fin albacore
+        12208, -- tender wold meat
+        5503, -- clam meat
+        3712, -- turtle meat
+        6289, -- raw longjaw mud snapper
+        12037, -- mystery meat
+        21071, -- raw sagefish
+        12203, -- red wolf meat
+        6291, -- raw brilliant smallfish
+        2674, -- crawler meat
+        5471, -- stag meat
+        3173, -- bear meat
+        1015, -- lean wolf flank
+        2673, -- coyote meat
+        6303, -- raw slitherskin mackerel
+        12205, -- white spider meat
+        5465, -- small spider leg
+        2675, -- crawler claw
+        1468, -- murloc fin
+        2924, -- crocolisk meat
+        3404, -- buzzard wing
+        5468, -- soft frenzy flesh
+        3667, -- tender crocolisk meat
+        12202, -- tiger meat
+        6317, -- raw loch frenzy
+        3730, -- big bear meat
+        2672, -- stringy wolf meat
+        2251, -- gooey spider leg
+        769, -- chunck of boar meat
+        13760, -- raw sunscale salmon
+        4603, -- raw spotted yellowtail
+        13889, -- raw whitescale salmon
+        13759, -- raw nightfin snapper
+        6308, -- raw bristle whisker catfish
+        8365, -- raw mithril head trout
+        3731, -- lion meat
+        13888, -- darkclaw lobster
+        21024, -- chimaerok tenderloin
+        5470, -- thunder lizard tail
+        12206, -- tender crab meat
+        723, -- goretusk liver
+        12223, -- meaty bat wing
+        729, -- stringy vulture meat
+        8959, -- raw spinefin halibut
+        3174, -- spider ichor
+        5469, -- strider meat
+        1081, -- crisp spider meat
+        2296, -- great goretusk snout
+        5466, -- scorpid stinger
+        730, -- murloc eye
+        3172, -- boar intestines
+        1080, -- tough condor meat
+        5467, -- kodo meat
+        2886, -- crag boar rib
+        731, -- goretusk snout
+        4655, -- giant clam meat
+        12204, -- heavy kodo meat
+    },
     ["Metal & Stone Cataclysm"] = {
         58480, -- truegold
         51950, -- pyrium bar
@@ -390,7 +510,7 @@ addon.db = {
         22202, -- small obsidian shard
         22203, -- large obsidian shard
         3861, -- blacksteel bar
-    }
+    },
     ["Gem Cataclysm"] = {
         52177, -- carnelian
         52181, -- hessonite
