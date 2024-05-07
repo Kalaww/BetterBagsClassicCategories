@@ -16,6 +16,45 @@ addon.db = {
         53643, -- bolt of embersilk cloth
         52341, -- fiery silk gland
     },
+    ["Cloth Wotlk"] = {
+        33470, -- frostweave cloth
+        41511, -- bolt of imbued frostweave cloth
+        41510, -- bolt of frostweave
+        42253, -- iceweb spider silk
+        41593, -- ebonweave
+        41595, -- spellweave
+        41594, -- moonshroud
+    },
+    ["Cloth TBC"] = {
+        21877, -- netherweave cloth
+        21840, -- bolt of netherweave
+        21881, -- netherweb spider silk
+        21842, -- bolt of imbued netherweave
+        24272, -- shadowcloth
+        21845, -- primal mooncloth
+        24271, -- spellcloth
+        21844, -- bolt of soulcloth
+        23855, -- spellfire cloth
+        23854, -- shadoweave cloth
+        21883, -- ebon felcloth
+    },
+    ["Cloth Classic"] = {
+        4306, -- silk cloth
+        2592, -- wool cloth
+        4338, -- mageweave cloth
+        14047, -- runecloth
+        2589, -- linen cloth
+        3182, -- spider's silk
+        4339, -- bolt of mageweave
+        14048, -- bolt of runecloth
+        4305, -- bolt of silk cloth
+        14342, -- mooncloth
+        4337, -- thick spider's silk
+        10285, -- shadow silk
+        2997, -- bolt of woolen cloth
+        14227, -- ironweb spider silk
+        2996, -- bolt of linen cloth
+    },
     ["Elemental Cataclysm"] = {
         52329, -- volatile life
         52325, -- volatile fire
