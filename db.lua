@@ -648,5 +648,34 @@ addon.db = {
         57193, -- mighty rejuvenation potion
         67944, -- firelord's draught
         63300, -- rogue's draught
+        62290, -- seafood magnifique feast
+        62649, -- fortune cookie
+        62671, -- severed sagefish head
+        60858, -- goblin barbecue
+        62669, -- skewered eel
+        62652, -- seasoned crab
+        62663, -- lavascale minestrone
+        62289, -- broiled dragon feast
+        62654, -- lavascale fillet
+        62670, -- beer-basted crocolisk
+        62653, -- salted eye
+        70925, -- eternal lunar pear
+        70926, -- eternal moonberry
+        70927, -- eternal sunfruit
+        70924, -- eternal eye of elune
+        62655, -- broiled mountain trout
+        62659, -- hearty seafood soup
+        62662, -- grilled dragon
+        62656, -- whitecrest gumbo
+        62658, -- tender baked turtle
+        62666, -- delicious sagefish tail
+        62668, -- blackbelly sushi
+        62657, -- lurker lunch
+        62665, -- basilisk liverdog
+        62660, -- pickled guppy
+        62651, -- lightly fried lurker
+        62661, -- baked rockfish
+        62667, -- mushroom sauce mudfish
+        62664, -- crocolisk au gratin
     }
 }
