@@ -610,7 +610,7 @@ addon.db = {
         64396, -- nerubian obelisk
         64395, -- vrykul rune stick
     },
-    ["Token Cataclysm"] = [
+    ["Token Cataclysm"] = {
         78847,
         78184,
         78863,
@@ -699,7 +699,7 @@ addon.db = {
         65088,
         65087,
         65089,
-    ],
+    },
     ["Inscription"] = {
         61981, -- inferno ink
         61980, -- burning embers
@@ -797,5 +797,174 @@ addon.db = {
         62661, -- baked rockfish
         62667, -- mushroom sauce mudfish
         62664, -- crocolisk au gratin
+    },
+    ["Winter Veil"] = {
+        23022, -- curmudgeon's payoff
+        21310, -- gaily wrapped present
+        21191, -- carefully wrapped present
+        21270, -- gently shaken gift
+        21271, -- gently shaken gift
+        67443, -- winter veil gift
+        21328, -- wand of holiday cheer
+        21363, -- festive gift
+        21327, -- ticking present
+        43504, -- winter veil gift
+        34426, -- winter veil gift
+        73792, -- stolen present
+        17712, -- winter veil disguise kit
+        21213, -- preserved holly
+        21216, -- smokywood pastures extra-special gift
+        17194, -- holiday spices
+        17727, -- smokywood pastures gift pack
+        21519, -- mistletoe
+        46740, -- winter veil gift
+        17726, -- smokywood pastures special gift
+        70931, -- scrooge's payoff
+        21831, -- wrappered gift
+        34191, -- handful of snowflakes
+        70938, -- winter veil gift
+        17685, -- smokywood pastures sampler
+        21314, -- metzen's letters and notes
+    },
+    ["Brewfest"] = {
+        37816, -- preserved brewfest hops
+        54535, -- keg-shaped treasure chest
+    },
+    ["Children's Week"] = {
+        18597, -- orcish orphan whistle
+        31880, -- blood elf orphan whistle
+        18598, -- human orphan whistle
+        31881, -- draenei orphan whistle
+    },
+    ["Hallow's End"] = {
+        70722, -- little wickerman
+        54516, -- loot-filled pumpkin
+        33189, -- rickety magic broom
+        37586, -- handful of treats
+    },
+    ["Noblegarden"] = {
+        45072, -- brightly colored egg
+    },
+    ["Love is in the air"] = {
+        50160, -- lovely dress box
+        22144, -- bluffwatcher's card
+        22145, -- guardian's moldy card
+        22287, -- parcel of cards
+        22299, -- sheaf of cards
+        22262, -- alliance gift collection
+        22289, -- stack of cards
+        22290, -- darnassus pledge collection
+        22121, -- pledge of loyalty: undercity
+        22133, -- darnassus gift collection
+        22164, -- gift of adoration: orgrimmar
+        22286, -- ironforge pledge collection
+        22295, -- satchel of cards
+        22298, -- book of romantic poems
+        22131, -- stormwing gift collection
+        22132, -- ironforge gift collection
+        22165, -- gift of adoration: thunder bluff
+        22284, -- bundle of cards
+        22294, -- orgrimmar pledge collection
+        22297, -- thunder bluff pledge collection
+        22119, -- pledge of loyalty: ironforge
+        22135, -- thunder bluff gift collection
+        22143, -- stormwind guard's card
+        22293, -- package of cards
+        21812, -- boc of chocolates
+        21960, -- handmade woodcraft
+        22120, -- pledge of loyalty: darnassus
+        22122, -- pledge of loyalty: thunder bluff
+        22141, -- ironforge guard's card
+        22166, -- gift of adoration: undercity
+        22176, -- homemade bread
+        22288, -- case of homebrew
+        22292, -- box of fresh pies
+        21816, -- heart candy
+        21829, -- perfume bottle
+        22123, -- pledge of loyalty: orgrimmar
+        22156, -- pledge of adoration: orgrimmar
+        34480, -- romantic picnic basket
+        22142, -- grunt's card
+        22169, -- gift of friendstip: orgrimmar
+        54537, -- heart-shaped box
+        22296, -- basket of flowers
+        21818, -- heart candy
+        21975, -- pledge of adoration: stormwind
+        22158, -- pledge of adoration: thunder bluff
+        22117, -- pledge of loyalty: stormwind
+        22173, -- dwarven homebrew
+        22177, -- freshly picked flowers
+        49927, -- love token
+        21823, -- heart candy
+        22171, -- gift of friendship: thunder bluff
+        22172, -- gift of friendship: undercity
+        22168, -- gift of friendship: ironforge
+        22170, -- gift of friendship: stormwind
+        22167, -- gift of friendship: darnassus
+        22175, -- freshly backed pie
+        22263,  -- horde gift collection
+        49909, -- box of chocolates
+        21813, -- bag of heart candies
+        21833, -- cologne bottle
+        22059, -- valentine's day card
+        22174, -- romantic poem
+        22261, -- love fool
+        22285, -- stormwind pledge collection
+        50161, -- dinner suit box
+        21817, -- heart candy
+        21819, -- heart candy
+        21979, -- gift of adoration: darnassus
+        22155, -- pledge of adoration: darnassus
+        22154, -- pledge of adoration: ironforge
+        22157, -- pledge of adoration: undercity
+        22161, -- pledge of friendship: orgrimmar
+        22163, -- pledge of friendship: undercity
+        22178, -- pledge of friendship: stormwind
+        22159, -- pledge of friendship: darnassus
+        22160, -- pledge of friendship: ironforge
+        22162, -- pledge of friendship: thunder bluff
+        22218, -- handful of rose petals
+        21820, -- heart candy
+        21821, -- heart candy
+        21980, -- gift of adoration: ironforge
+        21981, -- gift of adoration: stormwind
+        22140, -- sentinel's card
+        22291, -- box of woodcrafts
+        22058, -- valentine's day stationery
+    },
+    ["Midsummer Fire Festival"] = {
+        23247, -- burning blossom
+        34684, -- handful of summer petals
+    },
+    ["Lunar Festival"] = {
+        21640, -- lunar festival fireworks pack
+        21557, -- small red rocket
+        21559, -- small green rocket
+        21562, -- small yellow rocket
+        21558, -- small blue rocket
+        21560, -- small purple rocket
+        21561, -- small white rocket
+        21591, -- large purple rocket
+        21593, -- large white rocket
+        21595, -- large yellow rocket
+        21590, -- large green rocket
+        21589, -- large blue rocket
+        21592, -- large red rocket
+        21716, -- large green rocket cluster
+        21718, -- large red rocket cluster
+        21720, -- large yellow rocket cluster
+        21719, -- large white rocket cluster
+        21717, -- large purple rocket cluster
+        21576, -- red rocket cluster
+        21571, -- blue rocket cluster
+        21574, -- green rocket cluster
+        21575, -- purple rocket cluster
+        21577, -- white rocket cluster
+        21578, -- yellow rocket cluster
+        21570, -- cluster launcher
+        21569, -- firework launcher
+        21713, -- elune's candle
+        21536, -- elune stone
+        21747, -- festival firecracker
     }
 }
