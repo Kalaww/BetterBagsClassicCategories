@@ -325,6 +325,72 @@ addon.db = {
         52183, -- pyrite ore
         65365, -- folded obsidium
     },
+    ["Metal & Stone Wotlk"] = {
+        36916, -- cobalt bar
+        36909, -- cobalt ore
+        36913, -- saronite bar
+        37663, -- titansteel bar
+        36912, -- saronite ore
+        41163, -- titanium bar
+        36910, -- titanium ore
+        36911, -- azurite ore
+        36915, -- froststeel bar
+        36914, -- azurite bar
+    },
+    ["Metal & Stone TBC"] = {
+        23424, -- fel iron ore
+        23425, -- adamantite ore
+        23446, -- adamantite bar
+        23445, -- fel iron bar
+        23448, -- felsteel bar
+        23427, -- eternium ore
+        23426, -- khorium ore
+        23447, -- eternium bar
+        23573, -- hardened adamantite bar
+        23449, -- khorium bar
+        35128, -- hardened khorium
+    },
+    ["Metal & Stone Classic"] = {
+        10620, -- thorium ore
+        3858, -- mithril ore
+        2772, -- iron ore
+        12359, -- thorium bar
+        3859, -- steel bar
+        3860, -- mithril bar
+        7912, -- solid stone
+        12360, -- arcanite bar
+        2771, -- tin ore
+        2836, -- coarse stone
+        2838, -- heavy stone
+        2841, -- bronze bar
+        3857, -- coal
+        3575, -- iron bar
+        2835, -- rough stone
+        2775, -- silver ore
+        2770, -- copper ore
+        2842, -- silver bar
+        7911, -- truesilver ore
+        12365, -- dense stone
+        17771, -- enchanted elementium bar
+        18562, -- elementium ingot
+        11371, -- dark iron bar
+        2840, -- copper bar
+        6037, -- truesilver bar
+        2776, -- gold ore
+        3576, -- tin bar
+        12655, -- enchanted thorium bar
+        3470, -- rough grinding stone
+        11370, -- dark iron ore
+        3486, -- heavy grinding stone
+        17203, -- sulfuron ingot
+        3577, -- gold bar
+        7966, -- solid grinding stone
+        3478, -- coarse grinding stone
+        12644, -- dense grinding stone
+        22202, -- small obsidian shard
+        22203, -- large obsidian shard
+        3861, -- blacksteel bar
+    }
     ["Gem Cataclysm"] = {
         52177, -- carnelian
         52181, -- hessonite
