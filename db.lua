@@ -798,7 +798,93 @@ addon.db = {
         62667, -- mushroom sauce mudfish
         62664, -- crocolisk au gratin
     },
+    ["Consumable Wotlk"] = {
+        44329, -- elixir of expertise
+        40070, -- spellpower elixir
+        44332, -- elixir of mighty thoughts
+        40109, -- elixir of mighty mageblood
+        44325, -- elixir of accuracy
+        40078, -- elixir of mighty fortitude
+        44331, -- elixir of lightning speed
+        44327, -- elixir of deadly strikes
+        45621, -- elixir of minor accuracy
+        40073, -- elixir of mighty strength
+        40072, -- elixir of spirit
+        44330, -- elixir of armor piercing
+        40068, -- wrath elixir
+        44328, -- elixir of mighty defense
+        40076, -- guru's elixir
+        39666, -- elixir of mighty agility
+        40097, -- elixir of protection
+        46377, -- flask of endless rage
+        47499, -- flask of the north
+        46376, -- flask of the frost wyrm
+        46378, -- flask of pure mojo
+        44939, -- lesser flask of resistance
+        40079, -- lesser flask of toughness
+        46379, -- flask of stoneblood
+        40211, -- potion of speed
+        40093, -- indestructible potion
+        40081, -- potion of nightmares
+        33447, -- runic healing potion
+        33448, -- runic mana potion
+        40212, -- potion of wild magic
+        42545, -- runic mana injector
+        41166, -- runic healing injector
+        40067, -- icy mana potion
+        40087, -- powerful rejuvenation potion
+        40077, -- crazy alchemist's potion
+        43570, -- endless mana potion
+        43569, -- endless healing potion
+        39671, -- resurgent healing potion
+        40216, -- mighty nature protection potion
+        40215, -- mighty frost protection potion
+        40213, -- mighty arcane protection potion
+        40217, -- mighty shadow protection potion
+        40214, -- mighty fire protection potion
+        43015, -- fish feast
+        34125, -- shoveltusk soup
+        34754, -- mega mammoth meal
+        46887, -- bountiful feast
+        34752, -- rhino dogs
+        42995, -- hearty rhino
+        42996, -- snapper extreme
+        34756, -- spiced worm burger
+        34765, -- pickled fangtooth
+        34766, -- poached northern sculpin
+        34748, -- mammoth meal
+        34762, -- grilled sculpin
+        44953, -- worg tartare
+        34758, -- mighty rhino dogs
+        42942, -- baked manta ray
+        34749, -- shoveltusk steak
+        34751, -- roasted worg
+        34768, -- spicy blue nettlefish
+        39691, -- succulent orca stew
+        42994, -- rhinolicious wormsteak
+        42998, -- cuttlesteak
+        34753, -- great feast
+        34755, -- tender shoveltusk steak
+        42779, -- steaming chicken soup
+        43480, -- small feast
+        42993, -- spicy fried herring
+        43478, -- gigantic feast
+        42999, -- blackened dragonfin
+        43000, -- dragonfin filet
+        34750, -- worm delight
+        34769, -- imperial manta steak
+        43268, -- dalaran clam chowder
+        34764, -- poached nettlefish
+        34767, -- firecracker salmon
+        34757, -- very burnt worg
+        34763, -- smoked salmon
+    },
     ["Winter Veil"] = {
+        21525, -- green winter hat
+        21524, -- red winter hat
+        34085, -- red winter clothes
+        34086, -- winter boots
+        21215, -- graccu's mince meat fruitcake
         23022, -- curmudgeon's payoff
         21310, -- gaily wrapped present
         21191, -- carefully wrapped present
@@ -829,6 +915,7 @@ addon.db = {
     ["Brewfest"] = {
         37816, -- preserved brewfest hops
         54535, -- keg-shaped treasure chest
+        37892, -- green brewfest stein
     },
     ["Children's Week"] = {
         18597, -- orcish orphan whistle
@@ -843,9 +930,21 @@ addon.db = {
         37586, -- handful of treats
     },
     ["Noblegarden"] = {
+        44803, -- spring circlet
+        6833, -- white tuxedo shirt
+        19028, -- elegant dress
+        44800, -- spring robes
+        6835, -- black tuxedo pants
+        44792, --blossoming branch
+        45073, -- spring flowers
+        45067, -- egg basket
         45072, -- brightly colored egg
     },
     ["Love is in the air"] = {
+        22278, -- lovely blue dress
+        22280, --lovely purple dress
+        22276, -- lovely red dress
+        44731, -- bouquet of ebon roses
         50160, -- lovely dress box
         22144, -- bluffwatcher's card
         22145, -- guardian's moldy card
@@ -935,8 +1034,14 @@ addon.db = {
     ["Midsummer Fire Festival"] = {
         23247, -- burning blossom
         34684, -- handful of summer petals
+        23323, -- crown of the fire festival
+        23324, -- mantle of the fire festival
+        34685, -- vestment of summer
+        34683, -- sandals of summer
     },
     ["Lunar Festival"] = {
+        21544, -- festive blue pant suit
+        21100, -- coin of ancestry
         21640, -- lunar festival fireworks pack
         21557, -- small red rocket
         21559, -- small green rocket
@@ -966,5 +1071,11 @@ addon.db = {
         21713, -- elune's candle
         21536, -- elune stone
         21747, -- festival firecracker
+    },
+    ["Pilgrim's Bounty"] = {
+        46723, -- pilgrim's hat
+        46800, -- pilgrim's attire
+        44785, -- pilgrim's dress
+        46824, -- pilgrim's robe
     }
 }
