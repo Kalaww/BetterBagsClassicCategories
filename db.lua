@@ -1078,5 +1078,97 @@ addon.db = {
         46800, -- pilgrim's attire
         44785, -- pilgrim's dress
         46824, -- pilgrim's robe
+    },
+    ["Tabard"] = {
+        69209, -- illustrious guild tabard
+        64882, -- gilneas tabard
+        69210, -- renowed guild tabard
+        64884, -- bilgewater cartel tabard
+        65906, -- tabard of the guardians of hyjal
+        63378, -- hellscream's reach tabard
+        63379, -- baradin's wardens tabard
+        65907, -- tabard of therazane
+        65905, -- tabard of the earthen ring
+        65904, -- tabard of ramkahen
+        65908, -- tabard of the wildhammer clan
+        56246, -- krom'gar tabard
+        65909, -- tabard of the dragonmaw clan
+        45581, -- orgrimmar tabard
+        45574, -- stormwind tabard
+        45585, -- silvermoon city tabard
+        45579, -- darnassus tabard
+        45583, -- undercity tabard
+        45577, -- ironforge tabard
+        45584, -- thunder bluff tabard
+        46874, -- argent crusader's tabard
+        52252, -- tabard of the lightbringer
+        45580, -- exodar tabard
+        43154, -- tabard of the argent crusade
+        45578, -- gnomeregan tabard
+        45582, -- darkspear tabard
+        43155, -- tabard of the ebon blade
+        43157, -- tabard of the kirin tor
+        40643, -- tabard of the achiever
+        43349, -- tabard of brute force
+        49052, -- tabard of conquest
+        51534, -- wrathful gladiator's tabard
+        191481, -- tabard of mastery
+        45983, -- furious gladiator's tabard
+        49054, -- tabard of conquest
+        43348, -- tabard of the explorer
+        43156, -- tabard of the wyrmrest accord
+        49086, -- relentless gladiator's tabard
+        206392, -- tabard of the sons of hodir
+        46817, -- silver covenant tabard
+        46818, -- sunreaver tabard
+        201993, -- deadly gladiator's tabards
+        43300, -- loremaster's colors
+        31405, -- purple trophy tabard of the illidari
+        31404, -- green trophy tabard of the illidari
+        38311, -- tabard of the void
+        35221, -- tabard of the shattered sun
+        25549, -- blood knight tabard
+        24344, -- tabard of the hand
+        31777, -- keepers of time tabard
+        28788, -- tabard of the protector
+        31780, -- scryers tabard
+        23999, -- honor hold tabard
+        31804, -- cenarion expedition tabard
+        38312, -- tabard of brilliance
+        31774, -- kurenai tabard
+        38314, -- tabard of the defender
+        31773, -- mag'har tabard
+        31779, -- aldor tabard
+        31775, -- sporeggar tabard
+        23388, -- tranquillien tabard
+        36941, -- competitor's tabard
+        31776, -- consortium tabard
+        35280, -- tabard of summer flames
+        35279, -- tabard of summer skies
+        38310, -- tabard of the arcane
+        24004, -- thrallmar tabard
+        32445, -- skyguard tabard
+        38309, -- tabard of nature
+        31781, -- sha'tar tabard
+        31279, -- enchanted illidari tabard
+        31778, -- lower city tabard
+        38313, -- tabard of fury
+        32828, -- ogril'a tabard
+        5976, -- guild tabard
+        23192, -- tabard of the scarlet crusade
+        23705, -- tabard of flame
+        22999, -- tabard of the argent dawn
+        19031, -- frostwolf battle tabard
+        20131, -- battle tabard of the defilers
+        11364, -- tabard of stormwind
+        23709, -- tabard of frost
+        20132, -- arathor battle tabard
+        19032, -- stormpike battle tabard
+        19506, -- silverwing battle tabard
+        15196, -- private's tabard
+        15197, -- scout's tabard
+        19505, -- warsong battle tabard
+        15199, -- stone guard's herald
+        15198, -- knight's colors
     }
 }
