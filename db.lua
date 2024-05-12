@@ -916,6 +916,7 @@ addon.db = {
         37816, -- preserved brewfest hops
         54535, -- keg-shaped treasure chest
         37892, -- green brewfest stein
+        37863, -- direbrew's remote
     },
     ["Children's Week"] = {
         18597, -- orcish orphan whistle
